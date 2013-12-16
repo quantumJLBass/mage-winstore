@@ -1,0 +1,16 @@
+﻿<Application
+    x:Class="mage_winstore.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mage_winstore"
+    xmlns:localData="using:mage_winstore.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">mage_winstore</x:String>
+
+    </Application.Resources>
+</Application>
+

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAIN</Machine>
+    <WindowsUser>jeremy.bass</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>21da6e86-afeb-4f25-a9be-7def9f1a6416</PackageIdentityName>
+    <RegisteredManifestChecksum>5725070620619EE9BBBF6E25ACC005C37295805902DFB8B38831AE593ECB5CF7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>21da6e86-afeb-4f25-a9be-7def9f1a6416_1.0.0.0_neutral__e30m5w0a94vep</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>21da6e86-afeb-4f25-a9be-7def9f1a6416_e30m5w0a94vep!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>21da6e86-afeb-4f25-a9be-7def9f1a6416</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jeremy.bass</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\_GIT\mage-winstore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T05:50:48.696</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\mage-winstore.exe">
+      <PackagePath>mage-winstore.exe</PackagePath>
+      <Modified>2013-12-16T06:45:28.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2013-12-16T06:18:35.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-16T05:50:47.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2013-12-16T06:45:28.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2013-12-16T06:43:48.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2013-12-16T05:50:47.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-16T05:50:48.631</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+E:\_GIT\mage-winstore\mage-winstore.csproj;neutral
