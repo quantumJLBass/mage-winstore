@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using Windows.Data.Json;
 using Windows.Storage;
@@ -120,10 +121,17 @@ namespace mage_winstore.Data
             if (this._groups.Count != 0)
                 return;
 
-            Uri dataUri = new Uri("ms-appx:///DataModel/SampleData.json");
+           // Uri dataUri = new Uri("http://adultpleasures.xxx/SampleData.json");//ms-appx:///DataModel/SampleData.json
 
-            StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(dataUri);
-            string jsonText = await FileIO.ReadTextAsync(file);
+            //StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(dataUri);
+            //string jsonText = await FileIO.ReadTextAsync(file);
+
+            var client = new HttpClient(); // Add: using System.Net.Http;
+            var response = await client.GetAsync(new Uri("http://adultpleasures.xxx/SampleData.json"));
+            var jsonText = await response.Content.ReadAsStringAsync();
+
+
+
             JsonObject jsonObject = JsonObject.Parse(jsonText);
             JsonArray jsonArray = jsonObject["Groups"].GetArray();
 

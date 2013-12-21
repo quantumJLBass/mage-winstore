@@ -17,17 +17,17 @@
     <AppXManifest Include="E:\_GIT\mage-winstore\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-12-16T05:50:48.696</Modified>
+      <Modified>2013-12-16T23:56:51.673</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\mage-winstore.exe">
       <PackagePath>mage-winstore.exe</PackagePath>
-      <Modified>2013-12-16T06:45:28.585</Modified>
+      <Modified>2013-12-17T01:28:09.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\DataModel\SampleData.json">
       <PackagePath>DataModel\SampleData.json</PackagePath>
-      <Modified>2013-12-16T06:18:35.135</Modified>
+      <Modified>2013-12-16T23:54:09.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -37,17 +37,17 @@
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T14:01:02.000</Modified>
+      <Modified>2013-12-17T00:09:07.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T14:01:02.000</Modified>
+      <Modified>2013-12-17T00:10:10.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T14:01:02.000</Modified>
+      <Modified>2013-12-17T00:10:02.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
@@ -67,7 +67,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\GroupedItemsPage.xbf">
       <PackagePath>GroupedItemsPage.xbf</PackagePath>
-      <Modified>2013-12-16T06:45:28.236</Modified>
+      <Modified>2013-12-16T23:56:50.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\GroupDetailPage.xbf">
       <PackagePath>GroupDetailPage.xbf</PackagePath>
@@ -77,9 +77,13 @@
       <PackagePath>ItemDetailPage.xbf</PackagePath>
       <Modified>2013-12-16T05:50:47.996</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\SettingsFlyout1.xbf">
+      <PackagePath>SettingsFlyout1.xbf</PackagePath>
+      <Modified>2013-12-16T23:56:50.779</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-12-16T05:50:48.631</Modified>
+      <Modified>2013-12-16T23:56:51.463</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

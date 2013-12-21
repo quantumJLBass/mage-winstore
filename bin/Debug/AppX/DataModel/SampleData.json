@@ -21,7 +21,7 @@
         "Subtitle": "Mr Johns Simthing",
         "ImagePath": "Assets/DarkGray.png",
         "Description" : "Total sale $300.99",
-        "Content" : "test test"
+        "Content" : "Item Description: test test"
       },
       {
         "UniqueId": "Group-1-Item-3",

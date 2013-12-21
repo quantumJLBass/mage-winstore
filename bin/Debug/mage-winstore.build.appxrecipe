@@ -57,6 +57,9 @@
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\ItemDetailPage.xbf">
       <PackagePath>ItemDetailPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\SettingsFlyout1.xbf">
+      <PackagePath>SettingsFlyout1.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\_GIT\mage-winstore\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>

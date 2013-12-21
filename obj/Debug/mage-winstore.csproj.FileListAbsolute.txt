@@ -39,3 +39,8 @@ E:\_GIT\mage-winstore\obj\Debug\qualifiers.txt
 E:\_GIT\mage-winstore\obj\Debug\qualifiers.txt.intermediate
 E:\_GIT\mage-winstore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\_GIT\mage-winstore\obj\Debug\ProjectArchitectures.txt
+E:\_GIT\mage-winstore\bin\Debug\SettingsFlyout1.xbf
+E:\_GIT\mage-winstore\obj\Debug\SettingsFlyout1.g.i.cs
+E:\_GIT\mage-winstore\obj\Debug\SettingsFlyout1.g.cs
+E:\_GIT\mage-winstore\obj\Debug\SettingsFlyout1.xaml
+E:\_GIT\mage-winstore\obj\Debug\SettingsFlyout1.xbf

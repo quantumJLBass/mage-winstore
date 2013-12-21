@@ -9,4 +9,5 @@ App.xbf
 GroupDetailPage.xbf
 GroupedItemsPage.xbf
 ItemDetailPage.xbf
+SettingsFlyout1.xbf
 DataModel\SampleData.json
