@@ -7,3 +7,6 @@ Something else it should do ia simple edits.
 
 
 It should also allow for custom parts that are for utilities and what not.  Hooked in by choice to extend this.
+
+
+This will have to have an extension to pair with this app
