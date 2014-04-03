@@ -10,3 +10,8 @@ It should also allow for custom parts that are for utilities and what not.  Hook
 
 
 This will have to have an extension to pair with this app.  That extension wil also extend the rest API.  We want to trigger things like a clean up or, turn on/off a sale
+
+
+Should also allow for taking pictures and then uploadeding the file.  a local photo editor would be good too
+
+
