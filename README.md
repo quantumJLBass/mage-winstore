@@ -14,4 +14,7 @@ This will have to have an extension to pair with this app.  That extension wil a
 
 Should also allow for taking pictures and then uploadeding the file.  a local photo editor would be good too
 
+Also this should have local storage.
+
+
 
